@@ -113,10 +113,6 @@ body {
 .card:hover .card-icon {
     fill: rgb(255, 255, 255);
 }
-.col {
-    width: 166px;
-    height: 128px;
-}
 .section {
     padding-top: 70px;
     padding-bottom: 80px;
