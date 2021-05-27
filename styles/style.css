@@ -121,3 +121,97 @@ body {
     margin-bottom: 40px;
     margin-top: 0;
 }
+.offer {
+    border: 1px solid #c5c9d5;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+.offer-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid #f2f3f6;
+    background: #fff url(../img/logo-company.png) no-repeat center / contain;
+}
+.offer-title {
+    margin-left: 20px;
+}
+.offer-heading {
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+.offer-palace {
+    font-size: 14px;
+    line-height: 15px;
+}
+.offer-salary {
+    margin-left: 46px;
+    margin-right: 62px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #ffffff;
+    background: #1a75e8;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.more {
+    font-size: 14px;
+    line-height: 17px;
+    color: #1a75e8;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: 25px;
+}
+.subscribe {
+    background: #f2f3f6;
+}
+.subscribe-form {
+    max-width: 460px;
+    margin: auto;
+    text-align: center;
+}
+.subscribe-title {
+    font-size: 36px;
+    line-height: 43px;
+    margin-bottom: 20px;
+}
+.subscribe-subtitle {
+    font-size: 18px;
+    line-height: 140%;
+    margin-bottom: 40px;
+}
+.footer {
+    padding-top: 70px;
+    padding-bottom: 100px;
+}
+.footer-desc,
+.footer-copyright {
+    font-size: 12px;
+    line-height: 140%;
+    color: #b2b2b2;
+}
+.footer-title {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 16px;
+    line-height: 19px;
+    color: #111238;
+}
+.footer-list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.footer-list-link {
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: none;
+    color: #111238;
+    display: block;
+    margin-bottom: 10px;
+}
